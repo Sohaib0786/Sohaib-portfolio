@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Service&Repair",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML","CSS","JavaScript", "Express", "Node.js","Mongo.DB","Mongoose","Rest API's"],
+      "demo": "https://",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Namaste Yatra",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["express.js","Node.js","HTML","CSS","JavaScript","Mongo.DB","MapBox","Mongoose"],
+      "demo": "https://sohaib07-project-wanderlust.onrender.com/listings",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
