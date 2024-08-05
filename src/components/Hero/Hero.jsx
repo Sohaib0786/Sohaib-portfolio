@@ -2,14 +2,35 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
+import {useTypewriter,Cursor} from "react-simple-typewriter";
 
 export const Hero = () => {
+
+  const [text]=useTypewriter({
+    words: ['Mohd.Sohaib'],
+    loop:{},
+    typeSpeed: 100,
+    deleteSpeed: 40,
+  });
+
+
   return (
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title} >Hello, I'm 
         
-       <div> Mohd.Sohaib</div>
+        <div>
+        
+       
+        <span>
+          {text}
+        </span>
+
+          <span>
+            <Cursor cursorStyle='<'/>
+          </span>
+          </div>
+          
         
         </h1>
         <p className={styles.description}>

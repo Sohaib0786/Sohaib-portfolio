@@ -1,26 +1,28 @@
 [
     {
-      "title": "Service&Repair",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["HTML","CSS","JavaScript", "Express", "Node.js","Mongo.DB","Mongoose","Rest API's"],
-      "demo": "https://",
-      "source": "https://www.github.com"
+      "title": "Service and Repair",
+      "imageSrc": "projects/car.jpeg",
+      "description": " Developed a comprehensive web application for the service and repair of vehicle tires, designed to streamline operations for both customers and service providers.Also ,This web application is built to sell and buy the different types of vehicle's tyre",
+      "skills": ["HTML","CSS","JavaScript", "Express", "Node.js","Mongo.DB","Mongoose","Rest API's,Bootsrap"],
+      "demo": "https://sohaib-service-and-care.onrender.com",
+      "source": "https://github.com/Sohaib0786/Sohaib-Service-and-Care"
     },
+
+
     {
-      "title": "Namaste Yatra",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "title": "Namaste Travel",
+      "imageSrc": "projects/travel1.jpeg",
+      "description": "Developed Namaste Travel , a dynamic web application aimed at enhancing the travel planning experience for users. The platform offers a user-friendly interface where travelers can explore destinations, receive personalized recommendations, and manage their itineraries.",
       "skills": ["express.js","Node.js","HTML","CSS","JavaScript","Mongo.DB","MapBox","Mongoose"],
-      "demo": "https://sohaib07-project-wanderlust.onrender.com/listings",
-      "source": "https://www.github.com"
+      "demo": "https://sohaib-namaste-travel-tvaw.onrender.com",
+      "source": "https://github.com/Sohaib0786/Sohaib-Namaste-Travel"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Twitter Clone",
+      "imageSrc": "projects/twitter.jpeg",
+      "description": "Developed a fully functional Twitter clone web application, designed to emulate the core features of the Twitter platform. The project showcases proficiency in full-stack development, implementing a modern, responsive interface and robust backend services.",
+      "skills": ["React", "Express", "Node","Mongo.DB","Tailwind","Mongoose"],
+      "demo": "https://sohaib-twitter.onrender.com",
+      "source": "https://github.com/Sohaib0786/Sohaib-twitter"
     }
   ]
