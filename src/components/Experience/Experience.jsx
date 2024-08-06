@@ -34,14 +34,14 @@ export const Experience = () => {
               <ul>
                 <li>
                    <h2>  Computer  Science and Engineering|Jamia Hamdard,Delhi </h2>
-                   <h3>CGPA:&nbsp;7.9(2021-2025)</h3>
+                   <h3>CGPA:&nbsp;8.0(2021-2025)</h3>
                 </li>
                 <br></br>
                 <br></br>
                 <li><h2>XII(CBSE) | Maharaja Agarsain Public School, Delhi  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 82%|2020</h2></li>
                 <br></br>
                 <br></br>
-                <li><h2>XII(CBSE) | Guru Angad Public School, Delhi  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  83%|2018</h2></li>
+                <li><h2>X(CBSE) | Guru Angad Public School, Delhi  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  83%|2018</h2></li>
 
                 
               </ul>
